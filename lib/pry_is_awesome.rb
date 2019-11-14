@@ -9,5 +9,5 @@ def prying_into_the_method
 	puts this_variable_hasnt_been_interpreted_yet
 end
 
-
+def prying_into_the_method
 
